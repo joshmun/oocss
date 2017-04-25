@@ -37,7 +37,7 @@ We're used to thinking with a certain direction.
 }
 ```
 
-OOCSS encourages us to think the other way around. (Similar to bootstrap mentality).
+OOCSS encourages us to think the other way around. (ex; boostrap).
   1. Style structures and skins
   2. Apply those strcutres and skins onto your HTML
 
